@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tutoruidemo-dev-11924-authRole",
+      "UnauthRoleArn": "arn:aws:iam::711621072414:role/amplify-tutoruidemo-dev-11924-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::711621072414:role/amplify-tutoruidemo-dev-11924-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-tutoruidemo-dev-11924-deployment",
+      "UnauthRoleName": "amplify-tutoruidemo-dev-11924-unauthRole",
+      "StackName": "amplify-tutoruidemo-dev-11924",
+      "StackId": "arn:aws:cloudformation:eu-west-1:711621072414:stack/amplify-tutoruidemo-dev-11924/aa664bb0-816a-11ec-96eb-06a7581d6229",
+      "AmplifyAppId": "dtt2znxklxm9y"
+    },
+    "categories": {
+      "function": {
+        "CustomerHandler": {
+          "deploymentBucketName": "amplify-tutoruidemo-dev-11924-deployment",
+          "s3Key": "amplify-builds/CustomerHandler-50774f364f4b4b61744a-build.zip"
+        }
+      }
+    }
+  }
+}
